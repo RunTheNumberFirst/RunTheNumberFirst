@@ -1,16 +1,18 @@
-## Hi there 👋
+# Daniel Alter, MSc, MDT, CDT
 
-<!--
-**RunTheNumberFirst/RunTheNumberFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dental technology educator and lab business advisor. I build practical tools for dental laboratory owners, health care practices and real estate investors.
 
-Here are some ideas to get you started:
+## Optimized: for dental laboratories
+- **Optimized Brain + Academy**: the workforce solution for dental labs. Hire, train and grow technicians. [Become a Founding Lab](https://payhip.com/b/fwLD7)
+- **The Optimized Dental Laboratory** (book): [Amazon](https://www.amazon.com/dp/B0HGF1NC8V)
+- **The Complete System**: the book plus 31+ business tools. [Get it](https://payhip.com/b/vqc62)
+- **Free tools**: [Optimization Readiness Score](https://theoptimizeddentallab.com/tools/readiness-score) and more at [theoptimizeddentallab.com](https://theoptimizeddentallab.com)
+- **Excel calculators** from $19: [Dental Lab Owner's Pack ($49)](https://payhip.com/b/XZDfb), [Practice Equipment Pack ($39)](https://payhip.com/b/iKzLZ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## RunTheNumbersFirst: for real estate investors
+Free calculators for rentals, BRRRR, DSCR loans, fix and flip, cap rate and more: [runthenumbersfirst.com](https://runthenumbersfirst.com)
+
+## Witwoven Co.
+Funny matching tees and bandanas for you and your pet: [witwovenco.com](https://witwovenco.com)
+
+Contact: info@theoptimizeddentallab.com
